@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pr16_1_Shengals/1.0.0": {
+        "runtime": {
+          "pr16_1_Shengals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr16_1_Shengals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

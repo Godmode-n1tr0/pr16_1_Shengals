@@ -1,0 +1,16 @@
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.exe
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.deps.json
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.runtimeconfig.json
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.runtimeconfig.dev.json
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.dll
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\ref\pr16_1_Shengals.dll
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\bin\Debug\net5.0\pr16_1_Shengals.pdb
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.AssemblyInfoInputs.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.AssemblyInfo.cs
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.dll
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\ref\pr16_1_Shengals.dll
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.pdb
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\pr16_1_Shengals\obj\Debug\net5.0\pr16_1_Shengals.genruntimeconfig.cache
